@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "mingoscd",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"mingoscd","repositoryName":"blog","branch":"gh-pages"},"site":{"postsPerPage":"5","googleAnalytics":"UA-59669316-1","url":"http://mingoscd.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://mingoscd.github.io/blog/themes/Casper"}}
