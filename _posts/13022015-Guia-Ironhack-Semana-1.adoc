@@ -1,0 +1,15 @@
+= Guia Ironhack: Semana 1
+
+Hay muchas experiencias que uno puede vivir en esta vida y las mejores siempre empiezan de la misma forma, con una cerveza en la mano y rodeado de gente. Y así es como empieza *Ironhack*, un día antes de que empiece el trabajo duro todos los Ironhackers están invitados a una cerveza. Algo muy normal, pero que a la vez muy diferente si tenemos en cuenta que llegas, saludas a todos en inglés - bueno o malo, el ambiente de bar lo tapa todo - , escribes en un post-it tu nombre, te lo pegas en la camiseta y ya estas listo para conocer al resto de personas que durante los siguientes 2 meses se convertirán en tu familia.
+
+Al día siguiente, te levantas a una hora que seguro 100% no es la habitual - acostumbrado a coger las máximas clases posibles por la tarde para poder dormir más - pero aun así dispuesto a comerte el mundo aunque sea con nudo en el estómago. Y es que si el día empieza bien, cuando te encuentras con todos y ves que en la mesa hay un papel gigante que pone tu nombre, el día solo puede mejorar.
+
+Ese sentimiento de soy una persona importante solo puede ser contrarrestado con las primeros cabezazos contra la pared al ver que: o bien tu código, sin razón aparente le da por hacer cosas raras; o bien si ya estás más acostumbrado a programar que a escribir - sí, esto va especialmente dedicado a mi mismo - contra lo que te das cabezazos es tener que cambiarlo todo porque lo estas enfocando de una forma equivocada aunque todo funcione perfectamente - sí link:view-source:www.twitter.com/rafadc[@rafadc], esta va por ti - y es que gran parte de lo que te puede enseñar la universidad sobre programación suele quedarse corto. Sobretodo cuando todo lo que aprendes se queda obsoleto a los pocos años de aparecer. Y es que Ironhack va de eso, de *actualizarte*, de presionar F5 en tu cerebro y ponerse al día con lo más actual.
+
+Y, por fin, tras una semana llena de duro trabajo llega el viernes y ese día cambia la dinámica de grupo a la que te han acostumbrado el resto de la semana, y te dejan solo ante el peligro ante un problema real, para nada es un ejercicio de juguete en el que prácticas algun patrón de diseño. Eso sería demasiado fácil para probar todo lo que has aprendido. En tu primera semana programando Ruby te enfrentas a programar un link:view-source:https://github.com/mingoscd/terminal-chess[ajedrez para terminal]. Lo primero que se te viene a la cabeza es: "Esto me viene grande", pero tras la primera impresión empiezas a trocear el problema y por arte de magia las cosas empiezan a salir.
+
+Y como era de esperar, tras un día duro de trabajo y tu primer gran proyecto finalizado - a ver con algún que otro bug, no lo voy a negar, pero más o menos funcional - tiene que acabar con unas cervezas con todo el equipo de Ironhack y tus nuevos compañeros.
+
+NOTE: La primera cerveza de los viernes por cortesía de Ironhack
+
+:published_at: 13/02/2015
