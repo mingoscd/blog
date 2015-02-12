@@ -11,12 +11,6 @@ NOTE: HubPress is actually in preview, if you find some bugs come to see us.
 
 Documentation is rapidly evolving as the project gains momentum. Check back regularly for more tips on how to use HubPress.
 
-== Browser compatibility
-
-HubPress is compatible with Chrome and Chrome for Android.
-
-Firefox will be compatible soon, actually we encountered some bugs with IndexedDB, for the preview you should prefer use Chrome.
-
 == Getting Started
 
 === Installation
@@ -118,7 +112,7 @@ The *Google Analytics* field takes the unique Google Analytics code generated fo
 
 ===== Disquss Shortname
 
-The *Disquss shortname* field takes your Disqus URL/shortname that is specified when you register a new site for Disqus. Only the shortname is required, not a link to your profile page.
+The *Disquss shortname* field takes your Discuss user name. Only the user name is required, not a link to your profile page.
 
 ==== Social Network
 
@@ -161,6 +155,7 @@ By default, the publication date is the date of the day to which you introduced 
 
 For example :
 [source, asciidoc]
+=======
 ----
 = Blog Title
 :published_at: 2015-01-31
@@ -180,4 +175,3 @@ For example :
 == Credits
 
 Thanks to https://github.com/jaredmorgs[Jared Morgan] for initially tidying up the README you see here, and continuing to be the "docs guy" for HubPress.
-Thanks to https://github.com/takkyuuplayer[takkyuuplayer] to have translated the README into Japanese
