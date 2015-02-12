@@ -16,4 +16,4 @@ Y como era de esperar, tras un día duro de trabajo y tu primer gran proyecto fi
 
 NOTE: La primera cerveza de los viernes por cortesía de Ironhack
 
-:published_at: 13/02/2015
+:published_at: 2015-03-13
